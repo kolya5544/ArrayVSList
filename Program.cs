@@ -63,7 +63,7 @@ namespace SpeedCompareListArr
                 lst.Clear();
             }
 
-            //Calculating overage
+            //Calculating average
             long totalArr = 0;
             long totalLst = 0;
             for(int i = 0; i<ArrayResults.Count; i++)
